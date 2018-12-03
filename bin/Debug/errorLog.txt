@@ -1,0 +1,6 @@
+Error in WriteErrorLog: Could not find a part of the path 'C:\Users\i_qsa\Desktop\Silent_Installation\FinalScript.ps1'. - 04-01-2018 15:05:31
+Error in RunScript: The term 'The' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. - 04-01-2018 15:05:37
+Error in WriteErrorLog: Could not find a part of the path 'C:\Users\i_qsa\Desktop\Silent_Installation\FinalScript.ps1'. - 04-01-2018 15:21:07
+Error in RunScript: The term 'The' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. - 04-01-2018 15:21:09
+Error in SendMail: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [SG2PR06CA0146.apcprd06.prod.outlook.com] - 04-01-2018 17:48:50
+Error in SendMail: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [DB3PR0202CA0012.eurprd02.prod.outlook.com] - 04-01-2018 17:50:53
