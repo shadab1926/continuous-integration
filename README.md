@@ -3,7 +3,7 @@
 # What it does.?
 continuous deployment of .exe or .msi packages using powershell and .net forms.
 
-# If you wanna see whether there is any new build(.exe) arrived has arrived in the remote machine, mail the team members about the build, copy the build to the local machine, install the same in the local machine and run automation.... 
+# If you wanna see whether there is any new build(.exe) that has arrived in the remote machine and want to mail the team members about the build, copy the build to the local machine, install the same in the local machine and run automation.... 
 
 
 # All this can be done silently in background
